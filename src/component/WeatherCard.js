@@ -10,7 +10,7 @@ const WeatherCard = ({ tempInfo }) => {
         </div>
         <div className="weatherInfo">
           <div className="temperature">
-            <span>{temp}</span>
+            <span>{temp}&#176;</span>
           </div>
           <div className="description">
             <div className="weatherCondition">Sunny</div>
