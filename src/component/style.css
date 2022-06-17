@@ -95,6 +95,7 @@ body {
   font-size: 30px;
   font-weight: 800;
   text-align: center;
+  color: black;
 }
 
 .widget .extra-temp {
@@ -107,6 +108,7 @@ body {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   font-size: 100px;
+  /* color: #080705; */
 }
 
 .widget .extra-temp p {

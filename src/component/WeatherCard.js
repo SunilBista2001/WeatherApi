@@ -10,7 +10,7 @@ const WeatherCard = ({ tempInfo }) => {
         </div>
         <div className="weatherInfo">
           <div className="temperature">
-            <span>{temp}&#176;</span>
+            <span style={{ padding: "0 10px" }}>{temp}&#176;</span>
           </div>
           <div className="description">
             <div className="weatherCondition">Sunny</div>
